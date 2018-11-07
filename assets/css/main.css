@@ -1627,6 +1627,7 @@ input, select, textarea {
 		.avatar {
 			border-radius: 50%;
 			float: left;
+			margin-right: 45px;
 		}
 
 		.image-container {
@@ -3014,3 +3015,7 @@ input, select, textarea {
 						}
 
 	}
+
+#business-link:hover {
+	color: #ACE1BB;
+}
