@@ -1650,11 +1650,11 @@ input, select, textarea {
 		}
 
 		.demo-text {
-			color: #919499;
+			color: #282b34;
 			font-size: 25px;
 			position: absolute;
 			top: 45%;
-			left: 15%;
+			right: 8%;
 		}
 
 
